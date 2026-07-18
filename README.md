@@ -1,3 +1,6 @@
+<img width="1361" height="369" alt="github-header-banner" src="https://github.com/user-attachments/assets/047eeb38-a031-4b92-b8fe-c33e4deb9354" />
+
+
 # 💫 About Me:
 ## 👋 About Me<br><br>Hi, I'm Krishna Vashisht, a Computer Science undergraduate from India passionate about building full-stack web applications that solve real-world problems.<br><br>🚀 I enjoy participating in hackathons, collaborating with developers, and learning through hands-on projects. My goal is to grow into a software engineer who builds impactful products and contributes to open-source.<br><br>🔭 Currently working on: Full-Stack MERN Projects<br>🤝 Open to: Open Source & Hackathon Collaborations<br>🌱 Currently learning: Advanced React, Node.js, System Design & AI<br>💬 Ask me about: JavaScript, React, Node.js, MongoDB, C++, Git<br>⚡ Fun fact: I believe the best way to learn programming is by building projects that solve real-world problems.
 
